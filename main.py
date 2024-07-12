@@ -10,4 +10,5 @@ elif b>a:
     print("b больше a")
 else:
     print("a равно b")
+a=1
 
